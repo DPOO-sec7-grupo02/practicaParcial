@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import { Locale } from '../../lib/dictionary';
+import "./globals.css";
 
 export const metadata: Metadata = {
   title: 'Next.js i18n App',
